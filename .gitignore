@@ -1,0 +1,6 @@
+*.xlsx
+datasets/
+LOCAL_CONTEXT.md
+.ipynb_checkpoints/
+__pycache__/
+~$*.docx
